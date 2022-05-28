@@ -17,19 +17,6 @@
     
     
     <entry>
-      <title>CF-note</title>
-      <link href="/2022/05/26/CF-note/"/>
-      <url>/2022/05/26/CF-note/</url>
-      
-        <content type="html"><![CDATA[<p>本文用来记录我做过的 CF题中比较厉害的或者很有启发意义的题。</p><h3 id="cf1305g-3500"><a class="markdownIt-Anchor" href="#cf1305g-3500"></a> CF1305G *3500</h3><p>题意：</p><p>做法：</p><p>学过 Boruvka 之后这题就不太难了。</p><p>首先发现每个人最后一定都会进入</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>knapsack</title>
       <link href="/2022/05/24/knapsack/"/>
       <url>/2022/05/24/knapsack/</url>
