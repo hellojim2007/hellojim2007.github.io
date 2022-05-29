@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>network-flow</title>
+      <link href="/2022/05/29/network-flow/"/>
+      <url>/2022/05/29/network-flow/</url>
+      
+        <content type="html"><![CDATA[<h1 id="网络流学习笔记"><a class="markdownIt-Anchor" href="#网络流学习笔记"></a> 网络流学习笔记</h1><p>本文不会介绍网络流的基本概念和模板怎么写，<s>因为我学了之后就再也没有想过是为什么，都背的板子。</s></p><p>大概就讲一些例题，和经常会用到的模型，建模方式。</p><p>后面可能还会涉及一些 Hall定理，拉格朗日对偶，线性规划等更厉害的事情。</p><h2 id="part1模型"><a class="markdownIt-Anchor" href="#part1模型"></a> Part1：模型</h2><h3 id="最大权闭合图"><a class="markdownIt-Anchor" href="#最大权闭合图"></a> 最大权闭合图</h3><p>挖坑。</p><h3 id="最大密度子图"><a class="markdownIt-Anchor" href="#最大密度子图"></a> 最大密度子图</h3><p>挖坑。</p><h3 id="二分图最大点独立集最小点边覆盖集"><a class="markdownIt-Anchor" href="#二分图最大点独立集最小点边覆盖集"></a> 二分图最大点独立集，最小点/边覆盖集</h3><p>挖坑。</p><h2 id="part2例题"><a class="markdownIt-Anchor" href="#part2例题"></a> Part2：例题</h2><p>挖坑。大概会填wll24题，毕竟这个系列很经典。然后再补一些lin题。</p><h2 id="part3高端技巧"><a class="markdownIt-Anchor" href="#part3高端技巧"></a> Part3：高端技巧</h2><h3 id="hall定理"><a class="markdownIt-Anchor" href="#hall定理"></a> Hall定理</h3>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>knapsack</title>
       <link href="/2022/05/24/knapsack/"/>
       <url>/2022/05/24/knapsack/</url>
