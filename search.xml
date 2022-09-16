@@ -4,32 +4,6 @@
   
     
     <entry>
-      <title></title>
-      <link href="/2022/09/15/%E6%A8%A1%E6%8B%9F%E8%B5%9B%E6%88%98%E7%BB%A9%EF%BC%88%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0%EF%BC%89/"/>
-      <url>/2022/09/15/%E6%A8%A1%E6%8B%9F%E8%B5%9B%E6%88%98%E7%BB%A9%EF%BC%88%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0%EF%BC%89/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th></th><th>ych</th><th>tzc</th><th>gzy</th><th>xzh</th></tr></thead><tbody><tr><td>0713</td><td>165/300</td><td>300/300</td><td>230/300</td><td>180</td></tr><tr><td>0715</td><td><strong>出题</strong></td><td>236/330</td><td>170/200</td><td>276</td></tr><tr><td>0720</td><td>185/200</td><td>0/0</td><td>200/200</td><td>185</td></tr><tr><td>0724</td><td>46/280</td><td>140/240</td><td>122/200</td><td>没打</td></tr><tr><td>0727</td><td><strong>生病</strong></td><td>110/210</td><td>100/200</td><td>210</td></tr><tr><td>0730</td><td>300/300</td><td>200/300</td><td>210/300</td><td>120</td></tr><tr><td>0801</td><td>210/230</td><td>300/300</td><td>200/200</td><td>260</td></tr><tr><td>0805</td><td>280/280</td><td>80/360</td><td>0/200</td><td>110</td></tr><tr><td>0808</td><td>100/100</td><td>200/200</td><td>70/100</td><td>225</td></tr><tr><td>0812</td><td>100/100</td><td>115/115</td><td>225/225</td><td>130</td></tr><tr><td>0817</td><td>100/145</td><td>145/145</td><td>100/100</td><td>100</td></tr><tr><td>0820</td><td>210/210</td><td>335/335</td><td>100/100</td><td>270</td></tr><tr><td>0824</td><td>0/200</td><td><strong>出题</strong></td><td>200/200</td><td>296</td></tr><tr><td>0829</td><td><strong>没打</strong></td><td><strong>没打</strong></td><td><strong>没打</strong></td><td>100</td></tr><tr><td>0908</td><td>220/230</td><td>115/280</td><td>140/175</td><td></td></tr><tr><td>0912</td><td><strong>没打</strong></td><td><strong>没打</strong></td><td><strong>没打</strong></td><td></td></tr><tr><td>tot</td><td>1916/2575</td><td>2276/3115</td><td>2067/2700</td><td></td></tr></tbody></table><p>注：前面的分是真实得分，后面的分是写了的分</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/2022/09/15/7.%E7%94%9F%E6%88%90%E5%87%BD%E6%95%B0%20Generating%20Functions/"/>
-      <url>/2022/09/15/7.%E7%94%9F%E6%88%90%E5%87%BD%E6%95%B0%20Generating%20Functions/</url>
-      
-        <content type="html"><![CDATA[<h1 id="7生成函数-generating-functions"><a class="markdownIt-Anchor" href="#7生成函数-generating-functions"></a> 7.生成函数 Generating Functions</h1><h2 id="72-基本策略-basic-maneuvers"><a class="markdownIt-Anchor" href="#72-基本策略-basic-maneuvers"></a> 7.2 基本策略 Basic Maneuvers</h2><p>因为 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>7.1</mn></mrow><annotation encoding="application/x-tex">7.1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">7</span><span class="mord">.</span><span class="mord">1</span></span></span></span> 太抽象了，<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mtext>LaTeX</mtext></mrow><annotation encoding="application/x-tex">\LaTeX</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.89883em;vertical-align:-0.2155em;"></span><span class="mord text"><span class="mord textrm">L</span><span class="mspace" style="margin-right:-0.36em;"></span><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.68333em;"><span style="top:-2.904999em;"><span class="pstrut" style="height:2.7em;"></span><span class="mord text"><span class="mord textrm sizing reset-size6 size3">A</span></span></span></span></span></span><span class="mspace" style="margin-right:-0.15em;"></span><span class="mord text"><span class="mord textrm">T</span><span class="mspace" style="margin-right:-0.1667em;"></span><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.46782999999999997em;"><span style="top:-2.7845em;"><span class="pstrut" style="height:3em;"></span><span class="mord text"><span class="mord textrm">E</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.2155em;"><span></span></span></span></span><span class="mspace" style="margin-right:-0.125em;"></span><span class="mord textrm">X</span></span></span></span></span></span> 也不好打，就直接 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>7.2</mn></mrow><annotation encoding="application/x-tex">7.2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">7</span><span class="mord">.</span><span class="mord">2</span></span></span></span> 吧。</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>noip模拟赛题解合集</title>
       <link href="/2022/08/03/noip%E6%A8%A1%E6%8B%9F%E8%B5%9B%E9%A2%98%E8%A7%A3%E5%90%88%E9%9B%86/"/>
       <url>/2022/08/03/noip%E6%A8%A1%E6%8B%9F%E8%B5%9B%E9%A2%98%E8%A7%A3%E5%90%88%E9%9B%86/</url>
